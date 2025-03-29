@@ -10,5 +10,5 @@ logs
 
 # Dependency directories
 .bolt/
-
 .env
+.vercel
